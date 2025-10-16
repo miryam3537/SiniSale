@@ -6,7 +6,7 @@
 
 ## 🚀 טכנולוגיות
 
-- **Frontend:** Angular ש(Node.js)
+- **Frontend:** Angular 
 - **Backend:** .NET 8 (C#)
 - **IDE:** Visual Studio 2022
 - **Build Tools:** NPM, MSBuild
